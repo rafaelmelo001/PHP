@@ -1,0 +1,42 @@
+
+form {
+    margin: 20px;
+}
+
+body {
+   background-color: rgb(46, 67, 252);
+
+   margin: auto;
+   width: 940px;
+}
+
+fieldset {
+    width: 80%;
+
+    position: relative;
+    border-radius: 10px;
+}
+
+.resultado {
+    width: 78%;
+    margin: 23px;
+}
+
+.container {
+    background-color: rgb(68, 118, 255);
+
+    border-radius: 5px;
+    padding: 10px;
+    width: 50%;
+
+}
+
+.box {
+    background: rgb(153, 153, 255);
+    outline: none;
+    border-bottom: 1px solid white;
+    border: none;
+    border-radius: 3px;
+    left: 10%;
+    width: 80%;
+}
